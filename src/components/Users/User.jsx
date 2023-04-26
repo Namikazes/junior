@@ -22,7 +22,7 @@ const User = ({user, followingIsProgres,unfollow,follow}) => {
             </span>
             <span>
                 <span>
-                    <NavLink to={'/profile/' + user.id}>
+                    <NavLink to={`/profile/*${user.id}`}>
                         <div>{user.name}</div>
                     </NavLink>
                     <div>{user.status}</div>
