@@ -1,0 +1,31 @@
+.nav {
+    padding: 20px;
+    font-size: 20px;
+    grid-area: n;
+    background-color: rgb(103, 189, 240);
+}
+
+.item a {
+    color: white;
+    text-decoration: none;
+}
+
+ a.activeLink{
+    color: blue;
+}
+.itemFreands a{
+    color: white;
+    text-decoration: none;
+}
+
+.itemFreands {
+margin-top: 30px;
+}
+
+.personStyle img {
+    width: 15px;
+}
+.personStyle {
+    font-size: 15px;
+}
+
