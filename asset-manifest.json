@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/junior/static/css/main.2bc19be0.css",
+    "main.js": "/junior/static/js/main.8b419f81.js",
+    "static/css/377.edc4726a.chunk.css": "/junior/static/css/377.edc4726a.chunk.css",
+    "static/js/377.a9e8c250.chunk.js": "/junior/static/js/377.a9e8c250.chunk.js",
+    "static/css/98.1589cbef.chunk.css": "/junior/static/css/98.1589cbef.chunk.css",
+    "static/js/98.ddc1e047.chunk.js": "/junior/static/js/98.ddc1e047.chunk.js",
+    "static/css/916.aca8b150.chunk.css": "/junior/static/css/916.aca8b150.chunk.css",
+    "static/js/916.1a574bba.chunk.js": "/junior/static/js/916.1a574bba.chunk.js",
+    "static/js/787.9c4083a9.chunk.js": "/junior/static/js/787.9c4083a9.chunk.js",
+    "static/js/434.291c6b7e.chunk.js": "/junior/static/js/434.291c6b7e.chunk.js",
+    "static/media/NFT-Avatar.png": "/junior/static/media/NFT-Avatar.5bc0c4a19bc6a95cad6b.png",
+    "static/media/Spinner-1s-200px.svg": "/junior/static/media/Spinner-1s-200px.b767aab46ea3fa309aff5e12d5006915.svg",
+    "index.html": "/junior/index.html",
+    "main.2bc19be0.css.map": "/junior/static/css/main.2bc19be0.css.map",
+    "main.8b419f81.js.map": "/junior/static/js/main.8b419f81.js.map",
+    "377.edc4726a.chunk.css.map": "/junior/static/css/377.edc4726a.chunk.css.map",
+    "377.a9e8c250.chunk.js.map": "/junior/static/js/377.a9e8c250.chunk.js.map",
+    "98.1589cbef.chunk.css.map": "/junior/static/css/98.1589cbef.chunk.css.map",
+    "98.ddc1e047.chunk.js.map": "/junior/static/js/98.ddc1e047.chunk.js.map",
+    "916.aca8b150.chunk.css.map": "/junior/static/css/916.aca8b150.chunk.css.map",
+    "916.1a574bba.chunk.js.map": "/junior/static/js/916.1a574bba.chunk.js.map",
+    "787.9c4083a9.chunk.js.map": "/junior/static/js/787.9c4083a9.chunk.js.map",
+    "434.291c6b7e.chunk.js.map": "/junior/static/js/434.291c6b7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bc19be0.css",
+    "static/js/main.8b419f81.js"
+  ]
+}
